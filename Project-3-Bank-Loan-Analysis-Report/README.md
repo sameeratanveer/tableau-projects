@@ -127,17 +127,17 @@ These findings suggest focusing on debt consolidation loans, expanding lending i
 ## Recommendations: 
 1.	Focus on Debt Consolidation Loans:
         Since debt consolidation loans are the most profitable, the bank should consider increasing its focus on this category. This could involve offering more competitive interest rates and tailored products to attract borrowers seeking debt consolidation, which will further improve profitability.
-2.	Improve Screening for Small Business Loans:
+3.	Improve Screening for Small Business Loans:
         Small business loans have shown a loss, with the bank funding more than it received. To address this, the bank should refine its loan approval process for small businesses, ensuring better risk assessments, possibly by adding stricter financial health criteria for applicants.
-3.	Leverage Lower DTI and Interest Rates:
+4.	Leverage Lower DTI and Interest Rates:
         Since borrowers with lower DTI ratios and interest rates are more likely to repay their loans successfully, the bank should prioritize lending to borrowers with these characteristics. Implementing a stronger focus on DTI and interest rates during loan origination could reduce the risk of bad loans and enhance repayment rates.
-4.	Expand Lending in High-Performing States:
+5.	Expand Lending in High-Performing States:
         Given that states with more loan applications are also the most profitable, the bank should explore opportunities to increase its marketing and outreach efforts in these states. Additionally, expanding loan products and improving customer service in these regions may further boost lending performance.
-5.	Re-evaluate Loan Terms:
+6.	Re-evaluate Loan Terms:
         Loans with shorter terms (36 months) have shown better performance compared to 60-month loans. The bank should consider promoting shorter-term loans, especially for higher-value loan applications, while evaluating the impact of different term lengths on overall portfolio health.
-6.	Focus on Good Loan Applications:
+7.	Focus on Good Loan Applications:
         With 86.2% of loans classified as good loans, the bank should continue strengthening its focus on this segment. This could involve offering incentives for borrowers with good credit scores or low-risk profiles, as they contribute significantly to the bank’s profitability.
-7.	Monitor Loan Status Regularly:
+8.	Monitor Loan Status Regularly:
         With a notable 13.8% of bad loans, it is essential to continuously monitor loan performance and take timely actions to minimize defaults. Regular reviews of loan status, including the implementation of early warning systems, could help in identifying bad loans and addressing them proactively.
 
 
